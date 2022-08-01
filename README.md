@@ -5,7 +5,7 @@
 Please note that this far from being a 'copy-paste' work and it took days to finish as this analysis as I was learning data analysis as well as implementing the data analysis concepts simultaneously.
 
 <br>
-I have only sought to answer the questions asked in the aforementioned [video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn) and nothing else.
+I have only sought to answer the questions asked in the aforementioned [video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn)
 <br> 
 (All steps have been explained using markdown cells within the jupyter notebook.)
 #### This analysis seeks to answer/analyse the following:
