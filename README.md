@@ -1,7 +1,9 @@
 # IPL Data Analysis
-<br>I have taken inspiration for this analysis as well as the [dataset](https://drive.google.com/file/d/1ZkleSo1uaNiSjqpqSyAHJWdl9HAYNJEy/view?usp=sharing) from [this youtube video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn).
-
-#### This analysis seeks to answer/analyse the following:
+<br>I have taken **inspiration** for this analysis as well as the [dataset](https://drive.google.com/file/d/1ZkleSo1uaNiSjqpqSyAHJWdl9HAYNJEy/view?usp=sharing) from [this youtube video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn).
+Please note that this is no way near copy-paste work and it took days to finish as this was the first time I did  a real world data analysis.
+<br>I have only sought to answer the questions asked in the aforementioned  [video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn) and nothing else.
+<br> (All steps have been explained using markdown cells within the jupyter notebook.)
+#### This analysis seeks to answer/analyse the followingj
 1. How many matches have been played so far as per the available data (2008-2020)?
 2. List of all the cities where matches have been played. 
 3. List of all the teams that have participated so far.
