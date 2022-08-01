@@ -3,7 +3,7 @@
 Please note that this is no way near copy-paste work and it took days to finish as this was the first time I did  a real world data analysis.
 <br>I have only sought to answer the questions asked in the aforementioned  [video](https://www.youtube.com/watch?v=pbS5z-j4dd0&t=282s&ab_channel=Simplilearn) and nothing else.
 <br> (All steps have been explained using markdown cells within the jupyter notebook.)
-#### This analysis seeks to answer/analyse the followingj
+#### This analysis seeks to answer/analyse the following:
 1. How many matches have been played so far as per the available data (2008-2020)?
 2. List of all the cities where matches have been played. 
 3. List of all the teams that have participated so far.
